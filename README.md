@@ -32,8 +32,6 @@
   - Audit logging of all MCP tool usage
   - Confidence-based human-in-the-loop triggers
 
-⚠️ **Disclaimer**: For research/educational use only. Operates on **synthetic Synthea data**. **Not a medical device.**
-
 ## Installation
 
 ```bash
