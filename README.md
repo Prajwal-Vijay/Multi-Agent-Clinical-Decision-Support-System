@@ -57,18 +57,4 @@ jupyter notebook clinical_multi_agent_cdss.ipynb
 ## Data
 
 - Uses [Synthea synthetic patient data](https://synthetichealth.github.io/synthea/).
-- Sample CSVs are automatically downloaded on first run.
 
-## Deliverables
-
-- Notebook: `clinical_multi_agent_cdss.ipynb`
-- Outputs: `outputs/*.jsonl`, `outputs/system_metrics.json`
-- Supporting files: `requirements.txt`, `README.md`
-
-## Citation Anchoring
-
-All agent responses include **meta tags** (`obs:...`, `cond:...`, `med:...`) which serve as structured citations back to the originating EHR snippets.
-
-## License
-
-MIT License. For educational use only.
