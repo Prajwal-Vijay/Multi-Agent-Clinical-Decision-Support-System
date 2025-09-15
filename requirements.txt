@@ -22,3 +22,13 @@ langchain
 mcp
 python-json-logger
 nbformat
+torch
+pathlib
+json 
+datetime
+dataclasses
+zipfile
+re
+typing
+math 
+uuid 
